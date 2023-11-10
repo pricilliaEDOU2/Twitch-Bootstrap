@@ -278,3 +278,20 @@ h6 {
   width: 40px;
   object-fit: cover;
 }
+
+/********** FOOTER **********/
+footer {
+  background-color: white !important;
+  text-align: center;
+  color: black !important ;
+  padding: 20px;
+}
+footer a {
+  color: black;
+}
+footer a:hover {
+  color: #9146ff;
+}
+footer p {
+  margin: 0;
+}
